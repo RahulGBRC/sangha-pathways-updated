@@ -1,0 +1,459 @@
+[
+  {
+    "code": "2N3D",
+    "nights": 2,
+    "duration": 3,
+    "title": "Bodh Gaya, in stillness",
+    "start": "Bodh Gaya",
+    "end": "Bodh Gaya",
+    "region": "India",
+    "image": "bodhgaya",
+    "intro": "Time for worship, meditation and the sacred places around Bodh Gaya.",
+    "route": [
+      "Bodh Gaya"
+    ],
+    "days": [
+      {
+        "number": 1,
+        "title": "Bodhgaya",
+        "activities": [
+          "Reach Gaya Airport by morning, afternoon & evening.",
+          "Pick up from airport and proceed to hotel.",
+          "Participate in the evening worship at the Mahabodhi Temple.",
+          "Overnight stay at hotel."
+        ],
+        "meals": "Breakfast, Lunch & Dinner"
+      },
+      {
+        "number": 2,
+        "title": "Bodhgaya",
+        "activities": [
+          "Visit the Mahabodhi Mahavihara Temple and meditate under the bodhi tree.",
+          "Discover the surroundings and experience the majestic Great Buddha Statue.",
+          "Feel the peace of Mahakala Cave (Dungeshwari Hill).",
+          "Overnight stay at hotel."
+        ],
+        "meals": "Breakfast, Lunch & Dinner"
+      },
+      {
+        "number": 3,
+        "title": "Bodhgaya Morning, Afternoon Departure — A Time For Final Reflections.",
+        "activities": [
+          "Visit the Sujata Temple and Stupa in the morning.",
+          "Depart from Bodhgaya with lasting memories of the Sanghapathways Tour India."
+        ],
+        "meals": "Breakfast & Lunch"
+      }
+    ],
+    "download": "Buddhist_Tour_Itinerary_2N3D.docx"
+  },
+  {
+    "code": "4N5D",
+    "nights": 4,
+    "duration": 5,
+    "title": "Sacred Bihar & Sarnath",
+    "start": "Bodh Gaya",
+    "end": "Varanasi",
+    "region": "India",
+    "image": "sarnath",
+    "intro": "Connect Bodh Gaya, Rajgir and Nalanda with Sarnath and a sunrise on the Ganges.",
+    "route": [
+      "Bodh Gaya",
+      "Rajgir",
+      "Nalanda",
+      "Bodh Gaya",
+      "Sarnath",
+      "Varanasi"
+    ],
+    "days": [
+      {
+        "number": 1,
+        "title": "Bodhgaya",
+        "activities": [
+          "Reach Gaya Airport by morning, afternoon & evening.",
+          "Pick up from airport and proceed to hotel.",
+          "Check into hotel, rest and prepare for the spiritual journey ahead.",
+          "Overnight stay at hotel."
+        ],
+        "meals": "Breakfast, Lunch & Dinner"
+      },
+      {
+        "number": 2,
+        "title": "Bodhgaya",
+        "activities": [
+          "Visit the Mahabodhi Mahavihara Temple and meditate under the bodhi tree.",
+          "Discover the surroundings and experience the majestic Great Buddha Statue.",
+          "Feel the peace of Mahakala Cave (Dungeshwari Hill) and Sujata Stupa.",
+          "Participate in the evening worship at the Mahabodhi Temple.",
+          "Overnight stay at hotel."
+        ],
+        "meals": "Breakfast, Lunch & Dinner"
+      },
+      {
+        "number": 3,
+        "title": "Rajgir – Nalanda – Bodhgaya",
+        "activities": [
+          "Visit Gridhakuta Hill, Venuvan, Bimbisara Jail in Rajgir.",
+          "Continue to Nalanda and explore the ancient Nalanda University ruins along with its museum.",
+          "Return to Bodhgaya for an overnight stay."
+        ],
+        "meals": "Breakfast, Lunch & Dinner"
+      },
+      {
+        "number": 4,
+        "title": "Sarnath",
+        "activities": [
+          "After breakfast, checkout from Bodhgaya and proceed to Sarnath.",
+          "Discover the historic Dhamek Stupa, Mulgandha Kuti Vihar, and Chaukhandi Stupa at Sarnath.",
+          "Explore the local markets of Sarnath.",
+          "Overnight stay in Sarnath."
+        ],
+        "meals": "Breakfast, Lunch & Dinner"
+      },
+      {
+        "number": 5,
+        "title": "Varanasi",
+        "activities": [
+          "Experience a peaceful sunrise boat ride along the Ganges.",
+          "Depart from Varanasi with lasting memories of the Sanghapathways Tour India."
+        ],
+        "meals": "Breakfast"
+      }
+    ],
+    "download": "Buddhist_Tour_Itinerary_4N5D.docx"
+  },
+  {
+    "code": "6N7D",
+    "nights": 6,
+    "duration": 7,
+    "title": "The Buddhist heritage trail",
+    "start": "Bodh Gaya",
+    "end": "Bodh Gaya",
+    "region": "India",
+    "image": "bodhgaya",
+    "intro": "A journey through sacred sites in Bihar and Uttar Pradesh, returning to Bodh Gaya.",
+    "route": [
+      "Bodh Gaya",
+      "Rajgir",
+      "Nalanda",
+      "Vaishali",
+      "Kesariya",
+      "Kushinagar",
+      "Sarnath",
+      "Varanasi",
+      "Bodh Gaya"
+    ],
+    "days": [
+      {
+        "number": 1,
+        "title": "Bodhgaya",
+        "activities": [
+          "Reach Gaya Airport by morning, afternoon & evening.",
+          "Pick up from airport and proceed to hotel.",
+          "Participate in the evening worship at the Mahabodhi Temple.",
+          "Overnight stay at hotel."
+        ],
+        "meals": "Breakfast, Lunch & Dinner"
+      },
+      {
+        "number": 2,
+        "title": "Bodhgaya",
+        "activities": [
+          "Visit the Mahabodhi Mahavihara Temple and meditate under the bodhi tree.",
+          "Discover the surroundings and experience the majestic Great Buddha Statue.",
+          "Feel the peace of Mahakala Cave (Dungeshwari Hill).",
+          "Overnight stay at hotel."
+        ],
+        "meals": "Breakfast, Lunch & Dinner"
+      },
+      {
+        "number": 3,
+        "title": "Rajgir – Nalanda",
+        "activities": [
+          "After breakfast, continue your pilgrimage from Bodhgaya to Rajgir and Nalanda.",
+          "Visit Venuvan, Bimbisara Jail, Gridhakuta Hill, Nalanda University ruins and museum in Rajgir and Nalanda.",
+          "Overnight stay in Rajgir."
+        ],
+        "meals": "Breakfast, Lunch & Dinner"
+      },
+      {
+        "number": 4,
+        "title": "Vaishali – Kushinagar",
+        "activities": [
+          "Proceed to Kushinagar, stopping en route at Vaishali and the majestic Kesariya Buddha Stupa.",
+          "Explore the rich historical heritage of Vaishali.",
+          "Overnight stay in kushinagar."
+        ],
+        "meals": "Breakfast, Lunch & Dinner"
+      },
+      {
+        "number": 5,
+        "title": "Kushinagar – Sarnath",
+        "activities": [
+          "Explore the Mahaparinirvana Temple and the Ramabhar Stupa in Kushinagar.",
+          "Travel to Sarnath, The Sacred Land of Buddha’s First Sermon.",
+          "Overnight stay in Sarnath."
+        ],
+        "meals": "Breakfast, Lunch & Dinner"
+      },
+      {
+        "number": 6,
+        "title": "Varanasi – Sarnath – Bodhgaya",
+        "activities": [
+          "Experience a peaceful sunrise boat ride along the Ganges.",
+          "Discover the historic Dhamek Stupa, Mulgandha Kuti Vihar, and Chaukhandi Stupa at Sarnath.",
+          "Return to Bodhgaya for an overnight stay."
+        ],
+        "meals": "Breakfast, Lunch & Dinner"
+      },
+      {
+        "number": 7,
+        "title": "Bodhgaya Departure – A Spiritual Journey Remembered",
+        "activities": [
+          "Visit the Sujata Temple and Stupa in the morning.",
+          "Depart Bodhgaya with a deeper sense of peace and lasting memories of the Sanghapathways Tour India."
+        ],
+        "meals": "Breakfast"
+      }
+    ],
+    "download": "Buddhist_Tour_Itinerary_6N7D.docx"
+  },
+  {
+    "code": "7N8D",
+    "nights": 7,
+    "duration": 8,
+    "title": "Across the sacred lands",
+    "start": "Varanasi",
+    "end": "Bodh Gaya",
+    "region": "India & Nepal",
+    "image": "lumbini",
+    "intro": "From Varanasi to Lumbini, journey through the Buddhist circuit before a reflective finish in Bodh Gaya.",
+    "route": [
+      "Varanasi",
+      "Sarnath",
+      "Shravasti",
+      "Lumbini",
+      "Kushinagar",
+      "Kesariya",
+      "Vaishali",
+      "Rajgir",
+      "Nalanda",
+      "Bodh Gaya"
+    ],
+    "days": [
+      {
+        "number": 1,
+        "title": "Varanasi",
+        "activities": [
+          "Reach Varanasi Airport by morning, afternoon & evening.",
+          "Pick up from airport and proceed to hotel.",
+          "Attend the sacred Ganga Aarti held at the ghats during the evening.",
+          "Overnight stay at hotel."
+        ],
+        "meals": "Breakfast, Lunch & Dinner"
+      },
+      {
+        "number": 2,
+        "title": "Sarnath – Shravasti",
+        "activities": [
+          "Discover the historic Dhamek Stupa, Mulgandha Kuti Vihar, and Chaukhandi Stupa at Sarnath.",
+          "Travel to Shravasti, a place of great spiritual significance.",
+          "Visit the major sites of Shravasti, including the Jetavana Monastery.",
+          "Overnight stay in Shravasti."
+        ],
+        "meals": "Breakfast, Lunch & Dinner"
+      },
+      {
+        "number": 3,
+        "title": "Shravasti – Lumbini",
+        "activities": [
+          "Visit more places in Shravasti during the morning.",
+          "Proceed to Lumbini, the birth place of Lord Buddha.",
+          "Explore the Maya Devi Temple, the Ashoka Pillar, and the sacred gardens of Lumbini.",
+          "Overnight stay in Lumbini."
+        ],
+        "meals": "Breakfast, Lunch & Dinner"
+      },
+      {
+        "number": 4,
+        "title": "Lumbini – Kushinagar",
+        "activities": [
+          "Travel to Kushinagar, explore the Mahaparinirvana Temple and the Ramabhar Stupa in Kushinagar.",
+          "Overnight stay in kushinagar."
+        ],
+        "meals": "Breakfast, Lunch & Dinner"
+      },
+      {
+        "number": 5,
+        "title": "Kushinagar – Vaishali – Rajgir",
+        "activities": [
+          "On the way to Vaishali, visit the magnificent Kesariya Buddha Stupa.",
+          "Explore the historic landmarks of Vaishali, such as the Ananda Stupa and the Buddha Relic Stupa.",
+          "Continue your pilgrimage to Rajgir, where an overnight stay awaits."
+        ],
+        "meals": "Breakfast, Lunch & Dinner"
+      },
+      {
+        "number": 6,
+        "title": "Rajgir – Nalanda – Bodhgaya",
+        "activities": [
+          "Visit Venuvan, Bimbisara Jail, Nalanda University and Gridhakuta Hill in Rajgir & Nalanda.",
+          "Reach the sacred land of Bodhgaya and enjoy a serene overnight stay."
+        ],
+        "meals": "Breakfast, Lunch & Dinner"
+      },
+      {
+        "number": 7,
+        "title": "Bodhgaya",
+        "activities": [
+          "Discover the spiritual calm of Mahakala Cave (Dungeshwari Hill) and Sujata Stupa.",
+          "Discover the local attractions and marvel at the majestic Great Buddha Statue.",
+          "Experience the spiritual ambiance of the evening worship at the Mahabodhi Temple.",
+          "Overnight stay at hotel."
+        ],
+        "meals": "Breakfast, Lunch & Dinner"
+      },
+      {
+        "number": 8,
+        "title": "Bodhgaya Departure – A Spiritual Journey Remembered",
+        "activities": [
+          "Visit the holy Mahabodhi Mahavihara Temple and reflect peacefully under the Bodhi Tree.",
+          "End your Bodhgaya visit with a heart full of memories from the Sanghapathways Tour India experience."
+        ],
+        "meals": "Breakfast"
+      }
+    ],
+    "download": "Buddhist_Tour_Itinerary_7N8D.docx"
+  },
+  {
+    "code": "9N10D",
+    "nights": 9,
+    "duration": 10,
+    "title": "In the Buddha’s footsteps",
+    "start": "Bodh Gaya",
+    "end": "Varanasi",
+    "region": "India & Nepal",
+    "image": "lumbini",
+    "intro": "An extended pilgrimage with time in Lumbini, a visit to Kapilvastu, and the sacred sites of India.",
+    "route": [
+      "Bodh Gaya",
+      "Rajgir",
+      "Nalanda",
+      "Vaishali",
+      "Kesariya",
+      "Kushinagar",
+      "Lumbini",
+      "Kapilvastu",
+      "Shravasti",
+      "Sarnath",
+      "Varanasi"
+    ],
+    "days": [
+      {
+        "number": 1,
+        "title": "Bodhgaya",
+        "activities": [
+          "Reach Gaya Airport by morning, afternoon & evening.",
+          "Pick up from airport and proceed to hotel.",
+          "Check into hotel, rest and prepare for the spiritual journey ahead.",
+          "Overnight stay at hotel."
+        ],
+        "meals": "Breakfast, Lunch & Dinner"
+      },
+      {
+        "number": 2,
+        "title": "Bodhgaya",
+        "activities": [
+          "Visit the Mahabodhi Mahavihara Temple and meditate under the bodhi tree.",
+          "Discover the surroundings and experience the majestic Great Buddha Statue.",
+          "Feel the peace of Mahakala Cave (Dungeshwari Hill) and Sujata Stupa.",
+          "Participate in the evening worship at the Mahabodhi Temple.",
+          "Overnight stay at hotel."
+        ],
+        "meals": "Breakfast, Lunch & Dinner"
+      },
+      {
+        "number": 3,
+        "title": "Rajgir – Nalanda",
+        "activities": [
+          "After breakfast, checkout from Bodhgaya and proceed to Rajgir – Nalanda.",
+          "Visit Venuvan, Bimbisara Jail and Gridhakuta Hill in Rajgir.",
+          "Continue to Nalanda and explore the ancient Nalanda University ruins along with its museum.",
+          "Return to Rajgir for an overnight stay."
+        ],
+        "meals": "Breakfast, Lunch & Dinner"
+      },
+      {
+        "number": 4,
+        "title": "Vaishali – Kushinagar",
+        "activities": [
+          "Travel to Kushinagar, stopping along the way to visit Vaishali and the Kesariya Buddha Stupa.",
+          "Visit and discover the historical sites of Vaishali.",
+          "Overnight stay in kushinagar."
+        ],
+        "meals": "Breakfast, Lunch & Dinner"
+      },
+      {
+        "number": 5,
+        "title": "Kushinagar – Lumbini",
+        "activities": [
+          "Explore the Mahaparinirvana Temple and the Ramabhar Stupa in Kushinagar.",
+          "Proceed to Lumbini, the birth place of Lord Buddha.",
+          "Overnight stay in Lumbini."
+        ],
+        "meals": "Breakfast, Lunch & Dinner"
+      },
+      {
+        "number": 6,
+        "title": "Lumbini",
+        "activities": [
+          "Explore the Maya Devi Temple, the Ashoka Pillar, and the sacred gardens of Lumbini.",
+          "Explore Kapilvastu, the ancient kingdom of Lord Buddha.",
+          "Overnight stay in Lumbini."
+        ],
+        "meals": "Breakfast, Lunch & Dinner"
+      },
+      {
+        "number": 7,
+        "title": "Shravasti",
+        "activities": [
+          "Travel to Shravasti, a place of great spiritual significance.",
+          "Visit the major sites of Shravasti, including the Jetavana Monastery.",
+          "Overnight stay in Shravasti."
+        ],
+        "meals": "Breakfast, Lunch & Dinner"
+      },
+      {
+        "number": 8,
+        "title": "Shravasti – Sarnath",
+        "activities": [
+          "Visit more places in Shravasti during the morning.",
+          "Travel to Sarnath, where the Buddha’s first teachings created a timeless legacy for humanity.",
+          "Attend the sacred Ganga Aarti held at the ghats during the evening.",
+          "Overnight stay in Sarnath."
+        ],
+        "meals": "Breakfast, Lunch & Dinner"
+      },
+      {
+        "number": 9,
+        "title": "Varanasi – Sarnath",
+        "activities": [
+          "Experience a peaceful sunrise boat ride along the Ganges.",
+          "Discover the historic Dhamek Stupa, Mulgandha Kuti Vihar, and Chaukhandi Stupa at Sarnath.",
+          "Explore the local markets of Sarnath.",
+          "Overnight stay in Sarnath."
+        ],
+        "meals": "Breakfast, Lunch & Dinner"
+      },
+      {
+        "number": 10,
+        "title": "Varanasi Airport Departure",
+        "activities": [
+          "Depart from Varanasi with lasting memories of the Sanghapathways Tour India."
+        ],
+        "meals": "Breakfast"
+      }
+    ],
+    "download": "Buddhist_Tour_Itinerary_9N10D.docx"
+  }
+]
